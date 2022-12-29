@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @minimalistam
-- 👀 I’m interested in computervision
+- 👀 I’m interested in computervision & AI in engineering applications.  
 - 🌱 I’m currently learning & exploring tensorflow
 - 💞️ I’m looking to collaborate on anything in computervision & ML
 - 📫 email me @ amir.mahboud@gmail.com
